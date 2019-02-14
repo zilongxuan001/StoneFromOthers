@@ -4,6 +4,7 @@
 * [分析](chapter01/README.md)
    * [“自杀式单身”的中国青年：单身太舒服了，为什么要结婚？](chapter01/note01.md)
    * [《风格感觉》精读指南](chapter01/note02.md)
+   * [写作风格思考 15 条](chapter01/note03.md)
   
 * [备注](ps/note01s.md)
 * [参考文献](ps/ref.md)
