@@ -6,8 +6,9 @@
    * [《风格感觉》精读指南](chapter01/note02.md)
    * [写作风格思考 15 条](chapter01/note03.md)
    * [子弹笔记术帮你把信息化繁为简](chapter01/note04.md)
+   * [人生补习班饭团写作班课程笔记](chapter01/note05.md)
     
-  
+
 * [备注](ps/note01s.md)
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
