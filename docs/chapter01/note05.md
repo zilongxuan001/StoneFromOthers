@@ -142,7 +142,8 @@
 
 **段落与主题句：**在以描述事实或说明为目的的文章中，一个段落通常只包含一个主旨。而段落中通常就有一个句子表达出这个主旨，因此这个句子也称为“主题句”。
 
-![img](https://mubu.com/document_image/6487862f-6cce-4546-bce5-a19fb557161b-58004.jpg)
+![image](https://user-images.githubusercontent.com/19257507/53235632-48422200-36cd-11e9-9026-b0503ede164d.png)
+
 
 
 
