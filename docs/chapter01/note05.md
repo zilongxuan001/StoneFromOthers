@@ -73,7 +73,8 @@
 
 一字一字读而忽视掌握整体意义，看了前面忘了后面
 
-![img](https://mubu.com/document_image/73836afa-6d91-4a69-80cb-355a411713e2-58004.jpg)
+![image](https://user-images.githubusercontent.com/19257507/53235600-35c7e880-36cd-11e9-8f3d-ef431a3ddd37.png)
+
 
 #### 3.默读和想象
 
